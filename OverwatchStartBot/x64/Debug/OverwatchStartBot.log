@@ -1,0 +1,6 @@
+﻿  OverwatchStartBot.cpp
+c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchstartbot\overwatchstartbot.cpp(46): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchstartbot\overwatchstartbot.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchstartbot\overwatchstartbot.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchstartbot\overwatchstartbot.cpp(117): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  OverwatchStartBot.vcxproj -> C:\Users\rup\Documents\Visual Studio 2017\Projects\OverwatchStartBot\x64\Debug\OverwatchStartBot.exe

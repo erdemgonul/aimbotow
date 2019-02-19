@@ -6,4 +6,9 @@ c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchst
 c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchstartbot\overwatchstartbot.cpp(111): warning C4018: '<': signed/unsigned mismatch
 c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchstartbot\overwatchstartbot.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 c:\users\rup\documents\visual studio 2017\projects\overwatchstartbot\overwatchstartbot\overwatchstartbot.cpp(117): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
-  OverwatchStartBot.vcxproj -> C:\Users\rup\Documents\Visual Studio 2017\Projects\OverwatchStartBot\Debug\OverwatchStartBot.exe
+  Generating code
+  0 of 391 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OverwatchStartBot.vcxproj -> C:\Users\rup\Documents\Visual Studio 2017\Projects\OverwatchStartBot\Release\OverwatchStartBot.exe
