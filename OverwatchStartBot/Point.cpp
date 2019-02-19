@@ -13,4 +13,8 @@
 		
 		return  oss.str();
 	}
+	double Point::setTime() {
+		this->time=clock();
+		return this->time;
+	}
 
